@@ -1,0 +1,147 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(/css/images/cavok_blog_website_grafikformate.webp);
+    width: 1000px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    padding: auto;
+}
+
+.a {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.b {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.c {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.d {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.e {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.f {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 800;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 15px solid rgb(219, 188, 10);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(34, 35, 36);
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input[type="password"] {
+    color: brown;
+    text-align: center;
+    border: 5px solid sandybrown;
+    padding: 5px;
+
+    margin: 5px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 15px 5px slategrey;
+
+}
+
+input[type="number"] {
+    color: rgb(223, 202, 13);
+    text-align: center;
+    border: 5px solid sandybrown;
+    padding: 5px;
+
+    margin: 5px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 15px 5px slategrey;
+}
+
+button {
+    color: aqua;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+img {
+    width: 300px;
+    height: 10pxpx;
+    padding: 100px;
+    text-align: center;
+    margin: 100px;
+
+}
+
+li {
+    display: inline;
+}
