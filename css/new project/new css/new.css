@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding:
+    ;
+}
+
+div {
+    color: rgb(116, 108, 7);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:
+        800;
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+    border: 15px solid skyblue;
+    background-color: rgb(238, 180, 73);
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 15px 5px slategrey;
+
+}
